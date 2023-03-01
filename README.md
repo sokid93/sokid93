@@ -11,7 +11,7 @@
 #
 
 [Cuatro] (https://github.com/sokid93/TeamNameMissing)
-### Little demo developed with Julia Suniaga Martin y Ana Maria Farbotko with UE 4.27 for a Global Game Jam in 2023
+### Little demo developed with Julia Suniaga Martin y Ana Maria Farbotko with UE 4.27 for a Global Game Jam
 #
 
 [Take Duck] (https://github.com/thewazaa/Proyecto_Paracetamor)
