@@ -6,6 +6,18 @@
 
 ## My repositories
 
+[Linked Islands] (https://github.com/sokid93/LinkedIslands) 
+### Full game developed by myself with Unreal Engine 5 as my final project for Tokio School's master
+#
+
+[Cuatro] (https://github.com/sokid93/TeamNameMissing)
+### Little demo developed with Julia Suniaga Martin y Ana Maria Farbotko with UE 4.27 for a Global Game Jam in 2023
+#
+
+[Take Duck] (https://github.com/thewazaa/Proyecto_Paracetamor)
+### Mobile game developed as a team of student from Tokio School for the streamer Paracetamore
+#
+
 # My GitHub statistics
 [![Hua's github stats](http://github-readme-stats.vercel.app/api?username=sokid93&show_icons=true&theme=dark)](http://github.com/sokid93/github-readme-stats)
 
