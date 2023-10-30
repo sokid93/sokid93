@@ -18,6 +18,10 @@
 ### Mobile game developed as a team of student from Tokio School for the streamer Paracetamore
 #
 
+[Buildris] (https://github.com/sokid93/Buildris)
+### Prototyper developed in 10 days for a Technical test
+#
+
 # My GitHub statistics
 [![Hua's github stats](http://github-readme-stats.vercel.app/api?username=sokid93&show_icons=true&theme=dark)](http://github.com/sokid93/github-readme-stats)
 
