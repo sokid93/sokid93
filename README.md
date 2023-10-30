@@ -19,7 +19,7 @@
 #
 
 [Buildris] (https://github.com/sokid93/Buildris)
-### Prototyper developed in 10 days for a Technical test
+### Prototype developed in 10 days for a Technical test
 #
 
 # My GitHub statistics
