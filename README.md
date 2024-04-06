@@ -14,7 +14,7 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ### Software Crafting Skills
 
-![Static Badge](https://img.shields.io/badge/TDD-red)
+![Static Badge](https://img.shields.io/badge/TDD-red/plastic)
 
 ### Design Skills
 
