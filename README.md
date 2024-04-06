@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I decided to take that leap of faith because videogames have captivated me since I was a kid, so want to deep dive into them as a Developer.
+I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I decided to take that leap of faith because videogames have captivated me since I was a kid, so I want to deep dive into them as a Developer. Recently, I have discovered a proper way to program thanks to Gamedev Crafter, so now I am extremely interested in clean programming principles like TDD, Unit Testing, Software Arquitecture or Pair/Mob Programming among other.
 
 ![Mandos](https://user-images.githubusercontent.com/75070773/221901180-a3e32167-e58a-4229-bca5-9dd4e24f3d4b.jpg)
 
@@ -67,6 +67,22 @@ Unity kata to recreate Minesweeper to practice MVC arquitecture, TDD and mob pro
 
 [Coockie Cliker kata](https://github.com/ixmas93/Cookie-Clicker)
 Unity kata to recreate Cookie Clicker using MVC arquitecture, mob programming and Unit Testing
+
+---
+
+## Books
+
+### 📖 Currently Reading
+* "Unit Testing: Principles, Practices and Patterns", by Vladimir Khorikov
+* "Test-Driven Development By Example", by Kent Beck
+
+### 📘 Finished
+* "The Art of Readable Code", by Dustin Boswell and Trevor Foucher
+* "Extreme Programming Explained (Second Edition)", by Kent Beck and Cynthia Andres
+
+### 📚 Future Readings
+* "The Programmers Brain", by Felienne Hermans
+* "Tidy First?: A Personal Exercise in Empirical Software Design", by Kent Beck
 
 ---
 
