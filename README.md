@@ -6,6 +6,8 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ![Mandos](https://user-images.githubusercontent.com/75070773/221901180-a3e32167-e58a-4229-bca5-9dd4e24f3d4b.jpg)
 
+##
+
 ## Skills
 
 ### Tech Stack
@@ -14,7 +16,7 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ### Software Crafting Skills
 
-![Static Badge](https://img.shields.io/badge/TDD-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Refactoring-darkcyan?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Pair%2FMob_Programming-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Automation-green?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/XP-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/SOLID-purple?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Software_Arquitecture-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/TDD-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Refactoring-darkcyan?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Pair%2FMob_Programming-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Test_Automation-green?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/XP-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/SOLID-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Software_Arquitecture-purple?style=for-the-badge)
 
 ### Design Skills
 
@@ -24,10 +26,12 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## My repositories
+## Repositories
+
+###Game Jams
 
 [Linked Islands] (https://github.com/sokid93/LinkedIslands) 
-## Full game developed by myself with Unreal Engine 5 as my final project for Tokio School's master
+Full game developed by myself with Unreal Engine 5 as my final project for Tokio School's master
 #
 
 [Cuatro] (https://github.com/sokid93/TeamNameMissing)
