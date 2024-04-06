@@ -1,25 +1,33 @@
 # Welcome to my GitHub!
 
-### Here, you will find all the code and projects where I have worked.
+### About
+
+I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I decided to take that leap of faith because videogames have captivated me since I was a kid, so want to deep dive into them as a Developer.
 
 ![Mandos](https://user-images.githubusercontent.com/75070773/221901180-a3e32167-e58a-4229-bca5-9dd4e24f3d4b.jpg)
 
-## My repositories
+###Skills
+
+##Tech Stack
+
+Unreal Engine | Unity | C# | C++ | React | PostgreSQL | CSS | HTML
+
+### My repositories
 
 [Linked Islands] (https://github.com/sokid93/LinkedIslands) 
-### Full game developed by myself with Unreal Engine 5 as my final project for Tokio School's master
+## Full game developed by myself with Unreal Engine 5 as my final project for Tokio School's master
 #
 
 [Cuatro] (https://github.com/sokid93/TeamNameMissing)
-### Little demo developed with Julia Suniaga Martin y Ana Maria Farbotko with UE 4.27 for a Global Game Jam
+## Little demo developed with Julia Suniaga Martin y Ana Maria Farbotko with UE 4.27 for a Global Game Jam
 #
 
 [Take Duck] (https://github.com/thewazaa/Proyecto_Paracetamor)
-### Mobile game developed as a team of student from Tokio School for the streamer Paracetamore
+## Mobile game developed as a team of student from Tokio School for the streamer Paracetamore
 #
 
 [Buildris] (https://github.com/sokid93/Buildris)
-### Prototype developed with Unity in 10 days for a Technical test
+## Prototype developed with Unity in 10 days for a Technical test
 #
 
 # My GitHub statistics
