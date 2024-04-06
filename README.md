@@ -59,7 +59,7 @@ Mobile game developed as a team of student from Tokio School for the streamer Pa
 
 ### Practice Projects
 
-Here you will find some side projects from our team (@GerardGascon, @GerardGascon, @metalfurius and myself) during the Gamedev Crafters mentorship, made with the objective of learning and explore new concepts and methodologies such as TDD, mob programming or MVC for example
+Here you will find some side projects from our team during the Gamedev Crafters mentorship, made with the objective of learning and explore new concepts and methodologies such as TDD, mob programming or MVC for example
 
 
 [Minesweeper kata](https://github.com/GerardGascon/Minesweeper)
