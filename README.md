@@ -6,11 +6,11 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ![Mandos](https://user-images.githubusercontent.com/75070773/221901180-a3e32167-e58a-4229-bca5-9dd4e24f3d4b.jpg)
 
-###Skills
+### Skills
 
-##Tech Stack
+## Tech Stack
 
-Unreal Engine | Unity | C# | C++ | React | PostgreSQL | CSS | HTML
+Unreal Engine | Unity | C# | C++ | React | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | CSS | HTML
 
 ### My repositories
 
