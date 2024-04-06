@@ -4,6 +4,14 @@
 
 I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I decided to take that leap of faith because videogames have captivated me since I was a kid, so I want to deep dive into them as a Developer. Recently, I have discovered a proper way to program thanks to Gamedev Crafter, so now I am extremely interested in clean programming principles like TDD, Unit Testing, Software Arquitecture or Pair/Mob Programming among other.
 
+---
+
+## Contact me
+[![Linkedin Badge](http://img.shields.io/badge/-Fran_Soriano_Ruiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fransorinoruizdeveloperunrealengine/)](https://www.linkedin.com/in/fransorinoruizdeveloperunrealengine/)
+[![Gmail Badge](http://img.shields.io/badge/-franbarrabajakh@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franbarrabajakh@gmail.com)](mailto:franbarrabajakh@gmail.com)
+[![Itch.io](https://img.shields.io/badge/-sokid93-red?style=flat-square&logo=Itch.io&logoColor=white&link=https://sokid93.itch.io/)](https://sokid93.itch.io/)
+[![Behance](https://img.shields.io/badge/Fran_Soriano_Ruiz-yellow?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/fransoriano)
+
 ![Mandos](https://user-images.githubusercontent.com/75070773/221901180-a3e32167-e58a-4229-bca5-9dd4e24f3d4b.jpg)
 
 ---
@@ -88,10 +96,3 @@ Unity kata to recreate Cookie Clicker using MVC arquitecture, mob programming an
 
 ## My GitHub statistics
 [![Hua's github stats](http://github-readme-stats.vercel.app/api?username=sokid93&show_icons=true&theme=dark)](http://github.com/sokid93/github-readme-stats)
-
-
-## Contact me
-[![Linkedin Badge](http://img.shields.io/badge/-Fran_Soriano_Ruiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fransorinoruizdeveloperunrealengine/)](https://www.linkedin.com/in/fransorinoruizdeveloperunrealengine/)
-[![Gmail Badge](http://img.shields.io/badge/-franbarrabajakh@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franbarrabajakh@gmail.com)](mailto:franbarrabajakh@gmail.com)
-[![Itch.io](https://img.shields.io/badge/-sokid93-red?style=flat-square&logo=Itch.io&logoColor=white&link=https://sokid93.itch.io/)](https://sokid93.itch.io/)
-[![Behance](https://img.shields.io/badge/Fran_Soriano_Ruiz-yellow?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/fransoriano)
