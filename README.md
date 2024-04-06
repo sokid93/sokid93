@@ -30,23 +30,39 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ## Repositories
 
-###Game Jams
+### Game Jams
 
-[Linked Islands] (https://github.com/sokid93/LinkedIslands) 
+Here you'll find the games developed in the few Game Jams where I participated
+
+[Astro Dad](https://github.com/PrimCarol/IndieSpainJam_23)
+Game Jam game developed with a multidisciplinar team using Unity for Indie Spain Jam 2023
+
+[Cuatro](https://github.com/sokid93/TeamNameMissing)
+Little team project developed with UE 4.27 for a Global Game Jam 2023
+
+### Career Projects
+
+These are some of the projects developed for academic or professional purposes
+
+[Buildris](https://github.com/sokid93/Buildris)
+Prototype developed with Unity in 10 days for a Technical test
+
+[Linked Islands](https://github.com/sokid93/LinkedIslands) 
 Full game developed by myself with Unreal Engine 5 as my final project for Tokio School's master
-#
 
-[Cuatro] (https://github.com/sokid93/TeamNameMissing)
-## Little demo developed with Julia Suniaga Martin y Ana Maria Farbotko with UE 4.27 for a Global Game Jam
-#
+[Take Duck](https://github.com/thewazaa/Proyecto_Paracetamor)
+Mobile game developed as a team of student from Tokio School for the streamer Paracetamore usign Unity
 
-[Take Duck] (https://github.com/thewazaa/Proyecto_Paracetamor)
-## Mobile game developed as a team of student from Tokio School for the streamer Paracetamore
-#
+### Practice Projects
 
-[Buildris] (https://github.com/sokid93/Buildris)
-## Prototype developed with Unity in 10 days for a Technical test
-#
+Here you will find some side projects from our team during the Gamedev Crafters mentorship, made with the objective of learning and explore new concepts and methodologies such as TDD, mob programming or MVC for example
+
+
+[Minesweeper kata](https://github.com/GerardGascon/Minesweeper)
+Unity kata to recreate Minesweeper to practice MVC arquitecture, TDD and mob programming
+
+[Coockie Cliker kata](https://github.com/ixmas93/Cookie-Clicker)
+Unity kata to recreate Cookie Clicker using MVC arquitecture, mob programming and Unit Testing
 
 ---
 
