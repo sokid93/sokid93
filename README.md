@@ -24,7 +24,7 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ### Other Technologies
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -86,11 +86,11 @@ Unity kata to recreate Cookie Clicker using MVC arquitecture, mob programming an
 
 ---
 
-# My GitHub statistics
+## My GitHub statistics
 [![Hua's github stats](http://github-readme-stats.vercel.app/api?username=sokid93&show_icons=true&theme=dark)](http://github.com/sokid93/github-readme-stats)
 
 
-### Contact
+## Contact me
 [![Linkedin Badge](http://img.shields.io/badge/-Fran_Soriano_Ruiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fransorinoruizdeveloperunrealengine/)](https://www.linkedin.com/in/fransorinoruizdeveloperunrealengine/)
 [![Gmail Badge](http://img.shields.io/badge/-franbarrabajakh@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franbarrabajakh@gmail.com)](mailto:franbarrabajakh@gmail.com)
 [![Itch.io](https://img.shields.io/badge/-sokid93-red?style=flat-square&logo=Itch.io&logoColor=white&link=https://sokid93.itch.io/)](https://sokid93.itch.io/)
