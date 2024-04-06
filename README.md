@@ -40,6 +40,8 @@ Game Jam game developed with a multidisciplinar team using Unity for Indie Spain
 [Cuatro](https://github.com/sokid93/TeamNameMissing)
 Little team project developed with UE 4.27 for a Global Game Jam 2023
 
+#
+
 ### Career Projects
 
 These are some of the projects developed for academic or professional purposes
@@ -53,9 +55,11 @@ Full game developed by myself with Unreal Engine 5 as my final project for Tokio
 [Take Duck](https://github.com/thewazaa/Proyecto_Paracetamor)
 Mobile game developed as a team of student from Tokio School for the streamer Paracetamore usign Unity
 
+#
+
 ### Practice Projects
 
-Here you will find some side projects from our team during the Gamedev Crafters mentorship, made with the objective of learning and explore new concepts and methodologies such as TDD, mob programming or MVC for example
+Here you will find some side projects from our team (@GerardGascon, @GerardGascon, @metalfurius and myself) during the Gamedev Crafters mentorship, made with the objective of learning and explore new concepts and methodologies such as TDD, mob programming or MVC for example
 
 
 [Minesweeper kata](https://github.com/GerardGascon/Minesweeper)
