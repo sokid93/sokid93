@@ -6,7 +6,7 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 
 ![Mandos](https://user-images.githubusercontent.com/75070773/221901180-a3e32167-e58a-4229-bca5-9dd4e24f3d4b.jpg)
 
-##
+---
 
 ## Skills
 
@@ -25,6 +25,8 @@ I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I 
 ### Other Technologies
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
 
 ## Repositories
 
@@ -45,6 +47,8 @@ Full game developed by myself with Unreal Engine 5 as my final project for Tokio
 [Buildris] (https://github.com/sokid93/Buildris)
 ## Prototype developed with Unity in 10 days for a Technical test
 #
+
+---
 
 # My GitHub statistics
 [![Hua's github stats](http://github-readme-stats.vercel.app/api?username=sokid93&show_icons=true&theme=dark)](http://github.com/sokid93/github-readme-stats)
