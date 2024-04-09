@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I decided to take that leap of faith because videogames have captivated me since I was a kid, so I want to deep dive into them as a Developer. Recently, I have discovered a proper way to program thanks to Gamedev Crafters, so now I am extremely interested in clean programming principles like TDD, Unit Testing, Software Arquitecture or Pair/Mob Programming among other.
+I'm Fran, a Psychologist who went a bit crazy and turned to Game Development. I decided to take that leap of faith because videogames have captivated me since I was a kid, so I want to deep dive into them as a Developer. Recently, I have discovered a proper way to program thanks to Gamedev Crafters, so now I am extremely interested in clean programming concepts like TDD, Unit Testing, Software Arquitecture or Pair/Mob Programming among other.
 
 If you want to know more or contact me, check the links below.
 
