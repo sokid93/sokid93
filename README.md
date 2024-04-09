@@ -46,7 +46,7 @@ Here you'll find the games developed in the few Game Jams where I participated
 Game Jam game developed with a multidisciplinar team using Unity for Indie Spain Jam 2023
 
 [Cuatro](https://github.com/sokid93/TeamNameMissing)
-Little team project developed with UE 4.27 for a Global Game Jam 2023
+Little team project developed with UE 4.27 for the Global Game Jam 2023
 
 #
 
