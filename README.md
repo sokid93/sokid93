@@ -69,6 +69,8 @@ Mobile game developed as a team of student from Tokio School for the streamer Pa
 
 Here you will find some side projects from our team during the Gamedev Crafters mentorship, made with the objective of learning and explore new concepts and methodologies such as TDD, mob programming or MVC for example
 
+[Pinball kata](https://github.com/sokid93/Pinball)
+Unity kata to recreate a Pinball, using MVC arquitecture to manage the game logic while depending on Unity to manage physics
 
 [Minesweeper kata](https://github.com/GerardGascon/Minesweeper)
 Unity kata to recreate Minesweeper to practice MVC arquitecture, TDD and mob programming
@@ -81,15 +83,17 @@ Unity kata to recreate Cookie Clicker using MVC arquitecture, mob programming an
 ## Books
 
 ### 📖 Currently Reading
-* "Unit Testing: Principles, Practices and Patterns", by Vladimir Khorikov
-* "Test-Driven Development By Example", by Kent Beck
+* "Refactoring: Improving the Design of Existing Code", by Martin Fowler
 
 ### 📘 Finished
+* "The Programmers Brain", by Felienne Hermans
+* "Unit Testing: Principles, Practices and Patterns", by Vladimir Khorikov
+* "Test-Driven Development By Example", by Kent Beck
 * "The Art of Readable Code", by Dustin Boswell and Trevor Foucher
 * "Extreme Programming Explained (Second Edition)", by Kent Beck and Cynthia Andres
 
 ### 📚 Future Readings
-* "The Programmers Brain", by Felienne Hermans
+* "Domain-Driven Design: Tackling Complexity in the Heart of Software", by Eric Evans
 * "Tidy First?: A Personal Exercise in Empirical Software Design", by Kent Beck
 
 ---
