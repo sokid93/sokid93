@@ -86,9 +86,11 @@ Unity kata to recreate Cookie Clicker using MVC arquitecture, mob programming an
 ## Books
 
 ### 📖 Currently Reading
-* "Refactoring: Improving the Design of Existing Code", by Martin Fowler
+* "Domain-Driven Design: Tackling Complexity in the Heart of Software", by Eric Evans
 
 ### 📘 Finished
+* "Refactoring: Improving the Design of Existing Code", by Martin Fowler
+* "Practical Object-Oriented Design", by Sandi Metz
 * "The Programmers Brain", by Felienne Hermans
 * "Unit Testing: Principles, Practices and Patterns", by Vladimir Khorikov
 * "Test-Driven Development By Example", by Kent Beck
@@ -96,7 +98,6 @@ Unity kata to recreate Cookie Clicker using MVC arquitecture, mob programming an
 * "Extreme Programming Explained (Second Edition)", by Kent Beck and Cynthia Andres
 
 ### 📚 Future Readings
-* "Domain-Driven Design: Tackling Complexity in the Heart of Software", by Eric Evans
 * "Tidy First?: A Personal Exercise in Empirical Software Design", by Kent Beck
 
 ---
