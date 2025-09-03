@@ -48,6 +48,9 @@ Game Jam game developed with a multidisciplinar team using Unity for Indie Spain
 [Cuatro](https://github.com/sokid93/TeamNameMissing)
 Little team project developed with UE 4.27 for the Global Game Jam 2023
 
+[La Lorona del Can Cerbero](https://juanjo-garbas.itch.io/lallorona)
+Participation in the Malaga Jam 2025 using Unity
+
 #
 
 ### Career Projects
