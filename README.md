@@ -60,9 +60,6 @@ These are some of the projects developed for academic or professional purposes
 [Buildris](https://github.com/sokid93/Buildris)
 Prototype developed with Unity in 10 days for a Technical test
 
-[Linked Islands](https://github.com/sokid93/LinkedIslands) 
-Full game developed by myself with Unreal Engine 5 as my final project for Tokio School's master
-
 [Take Duck](https://github.com/thewazaa/Proyecto_Paracetamor)
 Mobile game developed as a team of student from Tokio School for the streamer Paracetamore usign Unity
 
